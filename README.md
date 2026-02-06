@@ -105,9 +105,8 @@ It's Asterina Mitchell's personal website where she uploads her roman or poetry'
   <section id="about" class="section about">
     <h2 class="section-title">🌙 Миний тухай</h2>
     <p>
-      Сайн байна уу? Намайг (энд нэрээ бичнэ) гэдэг.  
-      Би уран зохиолд дуртай, өөрийн ертөнцийг үгээр бүтээхийг хүсдэг зохиолч.
-      "ХАВРЫН ОД" бол миний бүтээлүүдийг нэг дор цуглуулсан миний орон зай юм.
+      Сайн байна уу? Намайг (Эгшиглэн) гэдэг.  
+      Миний ном зохиол танд таалагдана гэдэгт итгэлтэй байна.
     </p>
   </section>
 
@@ -118,15 +117,15 @@ It's Asterina Mitchell's personal website where she uploads her roman or poetry'
 
     <form class="contact-form">
       <input type="text" placeholder="Нэр" required />
-      <input type="email" placeholder="Имэйл" required />
-      <textarea placeholder="Мессеж бичих..." required></textarea>
+      <input type="email" placeholder="ast3rinaa@gmail.com" required />
+      <textarea placeholder="Instagram: asterina_mi"..." required></textarea>
       <button type="submit" class="btn">Илгээх</button>
     </form>
   </section>
 
   <!-- Footer -->
   <footer class="footer">
-    <p>© 2026 ХАВРЫН ОД | THE SPRING STAR. Бүх эрх хуулиар хамгаалагдсан.</p>
+    <p>© 2026 ХАВРЫН ОД | THE SPRING STAR. Зөвшөөрөлгүй хуулбарлахыг хориглоно.</p>
   </footer>
 
   <!-- Modal -->
